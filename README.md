@@ -6,7 +6,7 @@ This repository includes dataset of our drug recommendation tool and paper.
 According to our knowledge, all the datasets in the field of drug recommendation are focused only on patient' reviews, and the characteristics of patients and drugs are not considered. Therefore, we seek to improve drug recommendation by considering the features of drugs and patients in a new dataset, which we named the "RECOMED" dataset. In this dataset, in addition to the reviews of users, the patient's age, the type of disease, the patient's gender, and other diseases are also considered.
 
 ## Dataset content:
-Our released dataset composed of 3 CSV Excel file including  DrugRating.csv, DrugInteraction.csv and DrugEvents.csv. 
+Our released dataset is composed of three CSV Excel files: DrugRating.csv, DrugInteraction.csv, and DrugEvents.csv.
 
 ## References:
 [2301.00280] RECOMMED: A Comprehensive Pharmaceutical Recommendation System (arxiv.org) 
