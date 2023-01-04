@@ -1,5 +1,5 @@
 
-## RECOMED DATASET
+## RECOMMED DATASET
 This repository includes dataset of our drug recommendation tool and paper.
 If you find this dataset useful in your research, please consider citing:
 [2301.00280] RECOMMED: A Comprehensive Pharmaceutical Recommendation System (arxiv.org) 
